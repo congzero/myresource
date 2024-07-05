@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: congzero/mywebapp:7
+        image: congzero/mywebapp:9
         ports:
         - containerPort: 8080
